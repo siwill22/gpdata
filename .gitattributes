@@ -1,0 +1,7 @@
+*.gpml filter=lfs diff=lfs merge=lfs -text
+*.gpmlz filter=lfs diff=lfs merge=lfs -text
+*.nc filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.rot filter=lfs diff=lfs merge=lfs -text
+*.xls filter=lfs diff=lfs merge=lfs -text
+*.tbz filter=lfs diff=lfs merge=lfs -text
